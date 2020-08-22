@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=maheshwaghmare&include_all_commits=true&show_icons=true&theme=radical&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwaghmare)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Social Links -->
+
+You can find me on [twitter](https://twitter.com/mwaghmare7/), [linkedin](https://www.linkedin.com/in/mwaghmare7/), or [maheshwaghmare.com](https://maheshwaghmare.com/)
