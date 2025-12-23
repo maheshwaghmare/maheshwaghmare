@@ -30,7 +30,7 @@ I'm a passionate software developer with expertise in web development, WordPress
 
 #### 📈 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshwaghmare&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshwaghmare&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 #### 🌐 Connect with Me
 
